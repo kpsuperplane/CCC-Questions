@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1450399903 source:c:\users\kevin\documents\github\ccc-questions\ccc 2005\s4 - pyramid message scheme.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<stack>
+	<stdio.h>
+
+1452216034 source:c:\users\kevin\documents\github\ccc-questions\ccc 2006\s3 - tin can telephone.cpp
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<math.h>
+
