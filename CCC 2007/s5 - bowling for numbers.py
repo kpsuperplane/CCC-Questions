@@ -1,3 +1,5 @@
+# See C++ Version for details on how to solve
+
 cases = int(raw_input())
 
 dp = [[0] * 60001 for j in range(0, 501)]

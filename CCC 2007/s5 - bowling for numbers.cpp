@@ -1,3 +1,11 @@
+/*
+
+    IDEA:
+    Two dimensional DP with balls and pins.
+    dp[i][j] represents the best case with `i` balls and 0 to `j` pins.
+
+*/
+
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
