@@ -13,3 +13,24 @@
 	<algorithm>
 	<math.h>
 
+1455422405 source:c:\users\kevin\documents\github\ccc-questions\ccc 2007\cco d1 p2 - bowling for numbers ++.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+
+1455495909 source:c:\users\kevin\documents\github\ccc-questions\ccc 2005\d2p3 - move that mouse again.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<vector>
+	<algorithm>
+
+1455502850 source:c:\users\kevin\documents\github\ccc-questions\ccc 2006\d2p3 - paint by numbers.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<queue>
+	<functional>
+	<algorithm>
+
